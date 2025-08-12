@@ -1,6 +1,6 @@
 # Softwareentwicklungsprozess
 
-# Inhaltsverzeichnis
+## Inhaltsverzeichnis
 - [Einführung](#einführung)
 - [Phase 1: Anforderungserhebung](#phase-1-anforderungserhebung)
 - [Phase 2: Priorisierung](#phase-2-priorisierung)
@@ -10,7 +10,7 @@
 - [Phase 6: Prüfung](#phase-6-prüfung)
 - [Phase 7: Auslieferung](#phase-7-auslieferung)
 
-# Einführung
+## Einführung
 
 <img width="350" alt="softwareentwicklungsprozess-phase-0" src="https://github.com/user-attachments/assets/a02c61f2-0674-41e1-9096-86b4426c95bf" />
 
@@ -26,7 +26,7 @@ Im Fokus stehen dabei:
 
 Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsprozesses, deren Ziele, typische Aktivitäten und erwartete Ergebnisse – stets ausgerichtet an den Prinzipien eines agilen, transparenten Produktentwicklungszyklus nach dem Scrum-Framework.
 
-# Phase 1: Anforderungserhebung
+## Phase 1: Anforderungserhebung
 
 <img width="350" alt="softwareentwicklungsprozess-phase-1-anforderungserhebung" src="https://github.com/user-attachments/assets/861e617c-b720-4074-ae47-b23b12522266" />
 
@@ -43,7 +43,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Erste Themencluster, Use Cases und Feature Requests als High-Level Product Backlog.
 
-# Phase 2: Priorisierung
+## Phase 2: Priorisierung
 
 <img width="350" alt="softwareentwicklungsprozess-phase-2" src="https://github.com/user-attachments/assets/b2469fd9-91d3-47e3-b003-5db3de4b7071" />
 
@@ -59,7 +59,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Priorisierte Feature-Liste in Form einer Roadmap – bei Bedarf ergänzt um eine grobe zeitliche Einordnung.
 
-# Phase 3: Konzipierung
+## Phase 3: Konzipierung
 
 <img width="350" alt="softwareentwicklungsprozess-phase-3" src="https://github.com/user-attachments/assets/5d79395c-63e8-498f-995b-1666e8b12450" />
 
@@ -76,7 +76,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Detaillierte Konzeptdokumente mit fachlichen Spezifikationen, technischen Architektur-Entscheidungen und ersten Lösungsansätzen.
 
-## 3.2. Design und Prototyping
+### 3.2. Design und Prototyping
 
 **Kurzbeschreibung:** Visuelle und funktionale Ausarbeitung der Konzepte in Form von Screendesigns und – falls erforderlich – testbaren Prototypen.
 
@@ -88,7 +88,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Design-Spezifikationen und Screendesigns zur Implementierung.
 
-## 3.3. Konzeptabstimmung
+### 3.3. Konzeptabstimmung
 
 **Kurzbeschreibung:** Formale Validierung und Freigabe der entwickelten Konzepte und Designs durch alle relevanten Stakeholder.
 
@@ -102,7 +102,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Abgestimmte und freigegebene Konzepte und Designs als verbindliche Grundlage für die Entwicklung.
 
-## 3.4. Feinspezifizierung
+### 3.4. Feinspezifizierung
 
 **Kurzbeschreibung:** Überführung der Konzepte in entwicklungsreife User Stories mit klar definierten Akzeptanzkriterien und Aufwandsschätzungen.
 
@@ -115,7 +115,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Ready-for-Dev User Stories im Backlog (z. B. als Tickets im Jira-Backlog).
 
-# Phase 4: Planung
+## Phase 4: Planung
 
 <img width="350" alt="softwareentwicklungsprozess-phase-4" src="https://github.com/user-attachments/assets/193d79a9-96fc-42a8-bf7f-904b38a0482f" />
 
@@ -133,7 +133,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Sprint Backlog mit definiertem Ziel und detaillierter Aufgabenverteilung.
 
-# Phase 5: Entwicklung
+## Phase 5: Entwicklung
 
 <img width="350" alt="softwareentwicklungsprozess-phase5" src="https://github.com/user-attachments/assets/48c1bc0b-eb7a-48d5-8296-28cabf330880" />
 
@@ -148,11 +148,11 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Aktueller Überblick über den Fortschritt, abgestimmte Tagesplanung sowie frühzeitig erkannte und behobene Hindernisse oder Blocker.
 
-# Phase 6: Prüfung
+## Phase 6: Prüfung
 
 <img width="350" alt="softwareentwicklungsprozess-phase-6" src="https://github.com/user-attachments/assets/e0b71568-f12f-4610-96cf-6e8fdfb9f8c2" />
 
-## 6.1. Qualitätssicherung
+### 6.1. Qualitätssicherung
 
 **Kurzbeschreibung:** Systematische Qualitätskontrolle der entwickelten Verbesserungen und Erweiterungen durch funktionale und nicht-funktionale Tests.
 
@@ -166,7 +166,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Validierte Softwarequalität und vollständige Testdokumentation.
 
-## 6.2. Abnahme
+### 6.2. Abnahme
 
 **Kurzbeschreibung:** Formale Validierung der entwickelten Verbesserungen und Erweiterungen anhand der definierten Akzeptanzkriterien.
 
@@ -180,7 +180,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Abnahmefreigabe für die Produktivauslieferung.
 
-## 6.3. Sprint Review (Demo)
+### 6.3. Sprint Review (Demo)
 
 **Kurzbeschreibung:** Präsentation der fertiggestellten Verbesserungen und Erweiterungen vor Stakeholdern.
 
@@ -193,7 +193,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Gemeinsames Verständnis des Entwicklungsstands, dokumentiertes Stakeholder-Feedback.
 
-## 6.4. Sprint Retrospective
+### 6.4. Sprint Retrospective
 
 **Kurzbeschreibung:** Reflexion des Teams über den abgeschlossenen Sprint.
 
@@ -206,7 +206,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 **Ergebnis:** Konkrete Verbesserungsmaßnahmen für den nächsten Sprint.
 
-# Phase 7: Auslieferung
+## Phase 7: Auslieferung
 
 <img width="350" alt="softwareentwicklungsprozess-phase-7" src="https://github.com/user-attachments/assets/19cb05fc-b9fd-4afd-b245-3ea7e5efea20" />
 
