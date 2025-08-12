@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://shlareut.github.io/docusaurus-test/blog</id>
-    <title>My Site Blog</title>
+    <title>Docusaurus Test by Lars Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://shlareut.github.io/docusaurus-test/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Docusaurus Test by Lars Blog</subtitle>
     <icon>https://shlareut.github.io/docusaurus-test/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
