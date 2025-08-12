@@ -14,6 +14,9 @@
 
 <img width="350" alt="softwareentwicklungsprozess-phase-0" src="https://github.com/user-attachments/assets/a02c61f2-0674-41e1-9096-86b4426c95bf" />
 
+<img width="565" height="349" alt="softwareentwicklungsprozess-phase-1-anforderungserhebung" src="https://github.com/user-attachments/assets/382c1d08-2757-4025-ba28-b76158446a6b" />
+
+
 Ein effektiver, ganzheitlicher Entwicklungsprozess bildet das Fundament für eine erfolgreiche Produktrealisierung. Im Projekt „Next-Exam“ steht im Mittelpunkt, von Anfang an alle relevanten Perspektiven – von strategischen Ideen bis zur nutzerorientierten Umsetzung – systematisch zu vereinen, um Innovation und Qualität sicherzustellen.
 
 Dieser Prozess sorgt dafür, dass aus ersten Konzepten Schritt für Schritt marktreife Lösungen entstehen. Technische, fachliche und nutzerzentrierte Anforderungen werden frühzeitig zusammengeführt und über den gesamten Lebenszyklus hinweg kontinuierlich bewertet, priorisiert und weiterentwickelt.
