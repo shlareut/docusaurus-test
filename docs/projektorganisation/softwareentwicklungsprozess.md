@@ -12,10 +12,7 @@
 
 ## Einführung
 
-<img width="350" alt="softwareentwicklungsprozess-phase-0" src="https://github.com/user-attachments/assets/a02c61f2-0674-41e1-9096-86b4426c95bf" />
-
-<img width="565" height="349" alt="softwareentwicklungsprozess-phase-1-anforderungserhebung" src="https://github.com/user-attachments/assets/382c1d08-2757-4025-ba28-b76158446a6b" />
-
+<img width="350" alt="softwareentwicklungsprozess-phase-0" src="https://github.com/user-attachments/assets/a282a2d7-5923-499d-ac46-966477cf5a82" />
 
 Ein effektiver, ganzheitlicher Entwicklungsprozess bildet das Fundament für eine erfolgreiche Produktrealisierung. Im Projekt „Next-Exam“ steht im Mittelpunkt, von Anfang an alle relevanten Perspektiven – von strategischen Ideen bis zur nutzerorientierten Umsetzung – systematisch zu vereinen, um Innovation und Qualität sicherzustellen.
 
@@ -31,7 +28,7 @@ Der folgende Abschnitt beschreibt die wichtigsten Phasen dieses Entwicklungsproz
 
 ## Phase 1: Anforderungserhebung
 
-<img width="350" alt="softwareentwicklungsprozess-phase-1-anforderungserhebung" src="https://github.com/user-attachments/assets/861e617c-b720-4074-ae47-b23b12522266" />
+<img width="350" alt="softwareentwicklungsprozess-phase-1-anforderungserhebung" src="https://github.com/user-attachments/assets/382c1d08-2757-4025-ba28-b76158446a6b" />
 
 **Kurzbeschreibung:** Sammlung und erste Strukturierung aller Stakeholder-Anforderungen für das Produkt.
 
